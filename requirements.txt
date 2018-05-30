@@ -13,6 +13,4 @@ netcdf4
 basemap
 basemap-data-hires
 networkx
-pylab
-gmplot
 wordcloud
