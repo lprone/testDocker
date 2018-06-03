@@ -16,3 +16,4 @@ networkx
 wordcloud
 textacy==0.6.1
 spacy==2.0.11
+ftfy
