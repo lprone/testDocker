@@ -1,6 +1,6 @@
 numpy<2
 pandas<1
-pillow==6.2.0
+pillow
 matplotlib<2
 seaborn<1
 jupyter
